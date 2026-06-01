@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Onur Melikoğlu</h1>
 
 <h3 align="center">
-  Mobile Application Development Specialist from Türkiye
+  Mobile Software Engineering Specialist from Türkiye
 </h3>
 
 <p align="center">
