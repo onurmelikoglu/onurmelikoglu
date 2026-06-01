@@ -112,31 +112,6 @@ My main expertise is **Flutter & Dart**, but I also have experience with native 
 
 ---
 
-## 🚀 What I Work On
-
-```dart
-class OnurMelikoglu {
-  final String role = "Mobile Application Development Specialist";
-  final String mainStack = "Flutter & Dart";
-
-  final List<String> focusAreas = [
-    "Cross-platform mobile applications",
-    "Clean mobile architecture",
-    "Reusable UI components",
-    "Firebase and REST API integrations",
-    "Bluetooth, BLE and IoT communication",
-    "AI-assisted development workflows",
-    "Performance optimization",
-  ];
-
-  void build() {
-    print("Designing scalable, maintainable and user-focused mobile applications.");
-  }
-}
-```
-
----
-
 ## 📌 Featured Work Areas
 
 <table>
