@@ -137,70 +137,81 @@ class OnurMelikoglu {
 
 ---
 
-## 📌 Featured Focus Areas
+## 📌 Featured Work Areas
 
 <table>
   <tr>
     <td width="50%">
-      <h3>📱 Flutter Mobile Apps</h3>
+      <h3>💳 Payment Systems & Integrations</h3>
       <p>
-        Production-ready mobile applications with reusable widgets, clean architecture,
-        scalable state management and smooth user experiences.
+        Worked on payment system integrations including bank APIs, card payment flows,
+        secure checkout experiences, and mobile payment solutions such as Apple Pay
+        and Google Pay.
       </p>
     </td>
     <td width="50%">
-      <h3>🔐 Authentication & User Flows</h3>
+      <h3>🏦 FinTech Applications</h3>
       <p>
-        Login, register, password reset, OTP/SMS verification,
-        account management and multi-step user flows.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🗺️ Location-Based Features</h3>
-      <p>
-        Google Maps, geolocation, custom markers, nearby locations,
-        station-based screens and map-driven interfaces.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🔔 Notifications & App Lifecycle</h3>
-      <p>
-        Push notifications, local notifications, app update flows,
-        version management and release processes.
+        Developed and contributed to FinTech-oriented mobile applications involving
+        digital wallets, transaction flows, financial data handling, user verification
+        and secure mobile experiences.
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <h3>🎥 Media & Interactive Experiences</h3>
+      <h3>🤖 AI Assistants & Real-Time Chatbots</h3>
       <p>
-        Video playback, story-like UI flows, image/video upload,
-        media previews and interactive mobile-first experiences.
+        Built chatbot features and AI assistant integrations inside mobile applications,
+        including real-time messaging flows, conversational interfaces and AI-powered
+        user support experiences.
       </p>
     </td>
     <td width="50%">
-      <h3>🔌 IoT & BLE Integrations</h3>
+      <h3>⛽ Fuel & Automation System Integrations</h3>
       <p>
-        Bluetooth, BLE communication, mobile-to-hardware integrations,
-        device data handling and connected product experiences.
+        Worked on mobile integrations for automation systems, especially fuel station
+        automation flows, device communication, station operations and mobile-side
+        control/monitoring experiences.
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <h3>🤖 AI-Assisted Development</h3>
+      <h3>🔌 IoT, BLE & Bluetooth Mesh</h3>
       <p>
-        AI assistant integrations, prompt engineering, coding agents
-        and modern developer workflows.
+        Experienced with IoT communication technologies including Bluetooth, BLE,
+        Bluetooth Mesh and mobile-to-device communication flows for connected
+        hardware and industrial use cases.
       </p>
     </td>
     <td width="50%">
-      <h3>⚡ Performance & Optimization</h3>
+      <h3>🧠 AI/ML & Computer Vision</h3>
       <p>
-        Code refactoring, UI optimization, efficient state updates,
-        maintainable architecture and better developer experience.
+        Worked with ONNX-based AI models and computer vision workflows, including
+        camera-based object detection, on-device inference concepts and AI-powered
+        mobile features.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>🔄 Serial Communication & Device Protocols</h3>
+      <p>
+        Worked with serial communication protocols and device-level integrations,
+        enabling mobile applications to communicate with external hardware,
+        terminals and automation devices.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📱 Mobile Product Engineering</h3>
+      <p>
+        Designed and developed production-ready mobile features with clean
+        architecture, scalable state management, API integrations, performance
+        optimization and store release processes.
       </p>
     </td>
   </tr>
