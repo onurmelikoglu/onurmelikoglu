@@ -32,7 +32,7 @@
   <tr>
     <td width="72%" valign="top">
 
-I am a **Mobile Application Development Specialist** focused on building scalable, maintainable and user-friendly mobile applications.
+I am a **Mobile Software Engineering Specialist** focused on building scalable, maintainable and user-friendly mobile applications.
 
 My main expertise is **Flutter & Dart**, but I also have experience with native mobile development, backend systems, API integrations, IoT/BLE communication and AI-assisted development workflows.
 
